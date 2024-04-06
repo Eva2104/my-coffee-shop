@@ -1,0 +1,36 @@
+.btn-blue{
+	background-color: #2C7865;
+	padding: 15px 20px;
+	margin: 15px; 
+	border-radius: 4px;
+	color: white;
+	font-weight: bolder;
+	font-family: "Graduate", serif;
+}
+
+a{
+	text-decoration: none;
+	color: #BA704F;
+	font-weight: bolder;
+	font-family: "Graduate", serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.btn-blue{
+	background-color:#436850;
+	color:white;
+	padding: 10px 15px;
+	border-radius: 8px;
+
+}
+
+.btn-blue:hover{
+	background-color: #78A083;
+	color: #white;
+	font-weight: bolder;
+	font-family: "Graduate", serif;
+}
+
+

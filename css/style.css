@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bevan:ital@0;1&family=Graduate&family=Patrick+Hand&family=Patrick+Hand+SC&family=Slabo+27px&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+
+body {
+  font-family: "Patrick Hand SC", cursive;
+  font-weight: 400;
+  font-style: bolder;
+  font-size: 17px;
+  margin: 0px;
+  text-align: center;
+}
+
+
+h1,h2,h3{
+  font-family: "Graduate", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+	font-family: "Graduate", serif;
+	font-size: 16px;
+
+}
+
+
+h2{
+  padding: 10px;
+}
